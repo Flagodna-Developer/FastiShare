@@ -1,0 +1,101 @@
+{
+  "homeSubtitle": "Cepat, Berbagi file",
+  "tabsTitle": {
+    "upload": "Unggah",
+    "files": "Berkas",
+    "users": "User",
+    "settings": "Aturan"
+  },
+  "homeInfo": {
+    "loading": "Memuat...",
+    "serverName": "Nama server",
+    "os": "Sistem Operasi",
+    "pinLock": "Gunakan Kunci PIN",
+    "scanBarcode": "Pindai Barcode",
+    "runningOn": "Berjalan pada"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Batalkan",
+    "true": "Benar",
+    "yes": "Ya",
+    "no": "Tidak",
+    "close": "Tutup",
+    "delete": "Hapus",
+    "edit": "Sunting",
+    "save": "Simpan",
+    "search": "Cari"
+  },
+  "uploadTabs": {
+    "dragAndDrop": "Seret & jatuhkan file di sini atau klik untuk memilih",
+    "or": "atau",
+    "selectFiles": "Pilih berkas",
+    "selectedFiles": "Berkas Terpilih",
+    "uploading": "Mengunggah",
+    "upload": "Unggah",
+    "uploadFailed": "Upload gagal",
+    "uploadSuccess": "File berhasil diunggah"
+  },
+  "fileManagerTabs": {
+    "fileManager": "Manajer Berkas",
+    "searchFiles": "Cari berkas",
+    "search": "Cari",
+    "perPage": "per halaman",
+    "fileName": "Nama",
+    "fileSize": "Ukuran",
+    "fileType": "Tipe",
+    "fileDate": "Tanggal",
+    "fileActions": "Aksi",
+    "download": "Unduh",
+    "delete": "Hapus",
+    "noFiles": "Tidak ada berkas",
+    "showing": "Menampilkan",
+    "of": "dari",
+    "to": "sampai",
+    "file": "berkas",
+    "count": "total",
+    "files": "berkas",
+    "networkError": "Respon jaringan tidak baik",
+    "filesSelected": "berkas terpilih",
+    "failedFetch": "Gagal mengambil data",
+    "failedDelete": "Gagal menghapus berkas",
+    "failedDownload": "Gagal mengunduh berkas",
+    "deleteConfirm": "Apakah Anda yakin ingin menghapus berkas  :  ",
+    "deleteSuccess": "Berkas berhasil dihapus"
+  },
+  "userTabs": {
+    "title": "Pengguna Online",
+    "active": "Aktif",
+    "nullUser": "Tidak ada pengguna online",
+    "failedFetch": "Gagal mengambil data server"
+  },
+  "settingsTabs": {
+    "title": "Pengaturan",
+    "titleAbout": "Tentang FastiShare",
+    "titleChangeLang": "Ubah Bahasa",
+    "titleBg": "Ubah Latar Belakang",
+    "titleSelectBg": "Pilih Latar Belakang",
+    "titleCreditImage": "Kredit Gambar Latar Belakang >",
+    "titleDownloadOther": "Unduh untuk platform lain",
+    "titleDownloadAndroid": "Unduh versi seluler",
+    "titleDownloadIos": "Unduh untuk iPhone/iPad",
+    "titleDownloadWindows": "Unduh versi desktop",
+    "titleDownloadLinux": "Unduh untuk sistem Linux",
+    "titleVersion": "Versi",
+    "cannotDownload": "Tautan unduhan tidak tersedia saat ini. Coba lagi nanti."
+  },
+  "aboutApps": {
+    "title": "Tentang FastiShare",
+    "shortDesc": "adalah cara yang mudah dan cepat untuk berbagi berkas secara lokal antar perangkat.",
+    "featuredDesc": "Tidak memerlukan internet - berfungsi melalui jaringan Wi-Fi lokal Anda.",
+    "titleHowto": "Cara Menggunakan",
+    "useOne": "Buka FastiShare pada perangkat pengirim dan penerima.",
+    "useTwo": "Pastikan kedua perangkat terhubung ke jaringan Wi-Fi yang sama",
+    "useThree": "Pada pengirim: Pilih berkas dan klik.",
+    "useThreePartTwo": "Unggah Berkas",
+    "useFour": "Pada penerima: Buka tautan yang sama atau pindai kode QR untuk mengunduh.",
+    "bottomOne": "Semua transfer bersifat lokal dan sementara",
+    "bottomTwo": "Untuk kecepatan tercepat, gunakan Wi-Fi 5GHz jika tersedia",
+    "close": "Oke!"
+  }
+}
