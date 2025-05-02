@@ -1,3 +1,11 @@
+---
+layout: default
+title: "FastiShare"
+description: "Fast. File Sharing"
+image: "https://flagodna-developer.github.io/FastiShare/assets/fastishare-preview.png"
+permalink: /
+---
+
 # FastiShare - Fast, Local File Sharing
 
 ![FastiShare Logo](https://raw.githubusercontent.com/Flagodna-Developer/FastiShare/refs/heads/main/fastishare.png) 
