@@ -1,3 +1,7 @@
+---
+layout: default
+title: Terms of Use
+---
 # FastiShare Terms of Use  
 *Last Updated: [02 May 2025]*  
 
