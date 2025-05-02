@@ -2,3 +2,14 @@ theme: jekyll-theme-cayman
 title: FastiShare
 description: Fast. File Sharing
 show_downloads: false 
+
+# Meta tags (SEO/Social)
+url: "https://flagodna-developer.github.io/FastiShare"  
+author: "FlagoDNA" 
+
+# OpenGraph/Twitter Card (for link previews)
+og_image: "/assets/fastishare-preview.png"  
+twitter_card: summary_large_image
+
+# Favicon (optional)
+favicon: "/assets/favicon.ico"
