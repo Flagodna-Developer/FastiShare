@@ -1,4 +1,12 @@
- # FastiShare Privacy Policy  
+---
+layout: default
+title: "Privacy Policy | FastiShare"
+description: "FastiShare's privacy practices for local file transfers."
+image: "https://flagodna-developer.github.io/FastiShare/assets/fastishare-preview.png"
+permalink: /privacy-policy/
+---
+
+# FastiShare Privacy Policy  
 *Last Updated: [02 May 2025]*  
 
 FastiShare ("the App") is designed to respect your privacy. This policy explains what data we collect (spoiler: almost none) and how we handle it.  
