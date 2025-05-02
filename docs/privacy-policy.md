@@ -9,12 +9,20 @@ FastiShare **does not**:
 - Require registration or personal information.  
 - Track your activity outside the app.  
 
-### What We *Do* Access (And Why):  
-| Data Type                               | Purpose                               | Stored?                     |
-| --------------------------------------- | ------------------------------------- | --------------------------- |
-| **Network Info** (Local IP)             | To create a server for file transfers | No (temporary)              |
-| **File Metadata** (e.g., filename/size) | To display files for sharing          | No (deleted after transfer) |
-| **App Crash Logs**                      | Debugging (if you opt-in)             | Optional                    |
+### What We *Do* Access (And Why):
+
+- **Network Info** *(Local IP)*  
+  • **Purpose:** To create a server for file transfers  
+  • **Stored?:** No (temporary)
+
+- **File Metadata** *(e.g., filename, size)*  
+  • **Purpose:** To display files for sharing  
+  • **Stored?:** No (deleted after transfer)
+
+- **App Crash Logs**  
+  • **Purpose:** Debugging (if you opt-in)  
+  • **Stored?:** Optional
+
 
 ## 🌐 Network & Permissions  
 - **Wi-Fi/LAN Access**: Required to transfer files locally.  
