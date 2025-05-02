@@ -1,3 +1,7 @@
+---
+layout: default
+title: Privacy Policy
+---
 # FastiShare Privacy Policy  
 *Last Updated: [02 May 2025]*  
 
