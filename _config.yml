@@ -1,15 +1,18 @@
-theme: jekyll-theme-cayman
+# _config.yml
+
+# Basic settings
 title: FastiShare
 description: Fast. File Sharing
-show_downloads: false 
+theme: jekyll-theme-cayman
+show_downloads: false
 
-# Meta tags (SEO/Social)
-url: "https://flagodna-developer.github.io/FastiShare"  
-author: "FlagoDNA" 
+# Site metadata
+url: "https://flagodna-developer.github.io/FastiShare"
+author: "FlagoDNA"
 
-# OpenGraph/Twitter Card (for link previews)
-og_image: "/assets/fastishare-preview.png"  
+# SEO & Social sharing
+og_image: "/assets/fastishare-preview.png"  # Needs to be a full URL or hosted on your GitHub Pages
 twitter_card: summary_large_image
 
-# Favicon (optional)
+# Favicon
 favicon: "/assets/favicon.ico"
