@@ -1,8 +1,4 @@
----
-layout: default
-title: Privacy Policy
----
-# FastiShare Privacy Policy  
+ # FastiShare Privacy Policy  
 *Last Updated: [02 May 2025]*  
 
 FastiShare ("the App") is designed to respect your privacy. This policy explains what data we collect (spoiler: almost none) and how we handle it.  
