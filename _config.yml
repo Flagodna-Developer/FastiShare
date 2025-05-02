@@ -11,8 +11,8 @@ url: "https://flagodna-developer.github.io/FastiShare"
 author: "FlagoDNA"
 
 # SEO & Social sharing
-og_image: "/assets/fastishare-preview.png"  # Needs to be a full URL or hosted on your GitHub Pages
+og_image: "https://flagodna-developer.github.io/FastiShare/assets/fastishare-preview.png"
 twitter_card: summary_large_image
 
-# Favicon
-favicon: "/assets/favicon.ico"
+# Favicon 
+favicon: "https://flagodna-developer.github.io/FastiShare/assets/favicon.ico"
