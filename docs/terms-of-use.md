@@ -1,8 +1,4 @@
----
-layout: default
-title: Terms of Use
----
-# FastiShare Terms of Use  
+ # FastiShare Terms of Use  
 *Last Updated: [02 May 2025]*  
 
 By using FastiShare ("the App"), you agree to these terms. If you disagree, do not use the App.  
