@@ -63,11 +63,11 @@ permalink: /
 ---
 
 ## 📥 Download & Links
-- **GitHub**: [https://github.com/Flagodna-Developer/FastiShare](https://github.com/Flagodna-Developer/FastiShare) 
+- **GitHub**: [https://github.com/Flagodna-Developer/FastiShare](https://flagodna-developer.github.io/FastiShare/) 
 - **Google Play**: [Download for Android](https://play.google.com/store/apps/details?id=com.flagodna.fastishare)  
-- **App Store**: [Download for iOS](/)  🚧 In Dev
-- **Linux**: [Download for Linux](/)  🚧 In Dev
-- **Windows**: [Download for Windows](/)  🚧 In Dev
+- **App Store**: [Download for iOS](https://flagodna-developer.github.io/FastiShare/download/ios)  🚧 In Dev
+- **Linux**: [Download for Linux](https://flagodna-developer.github.io/FastiShare/download/linux) ✅
+- **Windows**: [Download for Windows](https://flagodna-developer.github.io/FastiShare/download/windows)  🚧 In Dev
  
 
 ---
