@@ -1,8 +1,8 @@
 # FastiShare for Linux 🐧  
-**Status**: 🚧 Under Development (v1.0.0)  
+**Status**: Stabe (v1.0.2)  
 
 ## 📥 Download  
-- **Debian/Ubuntu**: [Installer (.deb)](/)   🚧 Dev 
+- **Debian/Ubuntu**: [Installer (.deb)]([/](https://github.com/Flagodna-Developer/FastiShare/raw/refs/heads/main/download/file/fastishare-1.0.2+10002-linux.deb)) 
 
 ## ⚙️ Requirements  
 - **Kernel**: 5.4+
