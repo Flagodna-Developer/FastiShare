@@ -64,7 +64,7 @@ permalink: /
 
 ## 📥 Download & Links
 - **GitHub**: [Website](https://flagodna-developer.github.io/FastiShare/) 
-- **Google Play**: [Download for Android](https://play.google.com/store/apps/details?id=com.flagodna.fastishare)  
+- **Google Play**: [Download for Android](https://flagodna-developer.github.io/FastiShare/download/android)  
 - **App Store**: [Download for iOS](https://flagodna-developer.github.io/FastiShare/download/ios)  🚧 In Dev
 - **Linux**: [Download for Linux](https://flagodna-developer.github.io/FastiShare/download/linux) ✅
 - **Windows**: [Download for Windows](https://flagodna-developer.github.io/FastiShare/download/windows)  🚧 In Dev
