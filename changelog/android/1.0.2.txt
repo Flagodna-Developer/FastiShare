@@ -1,3 +1,0 @@
-FastiShare (1.0.2) stable
-
-  * Stable release. 
