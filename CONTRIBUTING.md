@@ -15,7 +15,7 @@ You can help by:
 FastiShare currently supports:
 
 - English (default)
-- [Add other supported languages here]
+- Indonesian
 
 Want to add a new language? See the **Translations** section below.
 
