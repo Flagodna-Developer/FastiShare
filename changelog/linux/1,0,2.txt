@@ -1,0 +1,4 @@
+FastiShare (1.0.2) stable
+
+  * Stable release.
+  * Added drag-and-drop support.
