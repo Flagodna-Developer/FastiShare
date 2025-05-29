@@ -1,0 +1,3 @@
+FastiShare (1.0.3) stable
+
+  * New Feature: Local note sharing now available!

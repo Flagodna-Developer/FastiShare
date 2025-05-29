@@ -14,6 +14,8 @@
 
 ## 🔄 Changelog
 
+- **v1.0.4** | `May 29, 2025`
+  - New Feature: Local note sharing.
 - **v1.0.2** | `May 5, 2025`
   - Stable release.
 - **v1.0.0**

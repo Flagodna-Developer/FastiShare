@@ -1,20 +1,27 @@
-# FastiShare for Android 📱  
-**Status**: ✅ Production (Stable)  
+# FastiShare for Android 📱
 
-## 📥 Download  
-- **Stable (Recommended)**: [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.fastishare)   
+**Status**: ✅ Production (Stable)
 
-## ⚙️ Requirements  
-- **OS**: Android 6.0+ (Marshmallow)  
-- **Storage**: 15MB free space  
-- **Permissions**:  
-  - Wi-Fi (for local transfers)  
-  - Storage (to access files)  
+## 📥 Download
+
+- **Stable (Recommended)**: [Google Play](https://play.google.com/store/apps/details?id=com.flagodna.fastishare)
+
+## ⚙️ Requirements
+
+- **OS**: Android 6.0+ (Marshmallow)
+- **Storage**: 15MB free space
+- **Permissions**:
+  - Wi-Fi (for local transfers)
+  - Storage (to access files)
   - Notifications (to show notification server running)
 
-## 🔄 Latest Version  
-- **v1.0.2** (Stable) | `May 5, 2025`  
-  - Bug fixes for QR scanner.   
+## 🔄 Latest Version
 
-## 🚧 Known Issues  
-- Slow transfers on 2.4GHz Wi-Fi (fix in progress).  
+- **v1.0.4** (Stable) | `May 29, 2025`
+  - New Feature: Local note sharing.
+- **v1.0.** (Stable) | `May 5, 2025`
+  - Bug fixes for QR scanner.
+
+## 🚧 Known Issues
+
+- Slow transfers on 2.4GHz Wi-Fi (fix in progress).
