@@ -32,7 +32,7 @@ permalink: /
 | ----------- | --------- | ------------------------------------------- |
 | **Android** | ✅ Yes    | Works on 6.0+ (no root needed)              |
 | **iOS**     | 🚧 In Dev | Support for Safari or Chrome is in progress |
-| **Windows** | 🚧 In Dev | Targeting 10/11 (64-bit recommended)        |
+| **Windows** | ✅ Yes    | Targeting 10/11 (64-bit recommended)        |
 | **macOS**   | ❌ No     | Not currently in development or planned     |
 | **Linux**   | ✅ Yes    | Aiming to support most major distributions  |
 
@@ -71,7 +71,7 @@ permalink: /
 - **Google Play**: [Download for Android](https://flagodna-developer.github.io/FastiShare/download/android)
 - **App Store**: [Download for iOS](https://flagodna-developer.github.io/FastiShare/download/ios) 🚧 In Dev
 - **Linux**: [Download for Linux](https://flagodna-developer.github.io/FastiShare/download/linux)
-- **Windows**: [Download for Windows](https://flagodna-developer.github.io/FastiShare/download/windows) 🚧 In Dev
+- **Windows**: [Download for Windows](https://flagodna-developer.github.io/FastiShare/download/windows)
 
 ---
 
